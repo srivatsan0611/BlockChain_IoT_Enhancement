@@ -3,3 +3,5 @@ A summary of the given research paper for BlockChain implementation for enhancem
 
 Research paper source - https://journal.esj.edu.iq/index.php/IJCM/article/view/88
 
+Note - Block Chain Based Solutions for IoT Security is the research paper sourced.
+       
